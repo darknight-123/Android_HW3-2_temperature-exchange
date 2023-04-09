@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UnitConvUsingSpinner</string>
+    <string name="text">請選擇轉換單位再輸入數值</string>
+</resources>
